@@ -26,3 +26,6 @@ theharvester ile bulunan bir mail haveipwned.com da araştırılabilir password 
 
 -----------------active reconnaissance---
 ![image](https://github.com/user-attachments/assets/8731a25d-75e3-4944-aa69-43dd9af7491d)
+
+dig ile dns zone tranfer yap
+![image](https://github.com/user-attachments/assets/957a1ff2-6686-4953-acc7-efd11bf366a5)
