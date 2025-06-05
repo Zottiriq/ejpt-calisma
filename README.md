@@ -1,5 +1,5 @@
 # ejpt-calisma
-
+-------------passive reconnaissance--
 bir sitede ilk bakılacaklar: robots.txt ve sitemap.xml
 
 site analizi için builtwith ya da wappalyzer. linux komutsatırından kullanmak için whatweb.
@@ -11,3 +11,17 @@ ip sorgusu için:host
 birden fazla ip varsa muhtemelen proxy kullanıyor (cloudflare gibi).
 
 whois kullan
+
+netfcraft kullan
+
+dnsdumpster.com kullan(iplerin resimle bağlantısını bile gösteriyor)
+
+wafwoof kullan waf var mı diye
+
+passive subdomain enumeration için sublister
+active için ffuf
+
+theharvester kullan
+theharvester ile bulunan bir mail haveipwned.com da araştırılabilir password için
+
+![image](https://github.com/user-attachments/assets/8731a25d-75e3-4944-aa69-43dd9af7491d)
