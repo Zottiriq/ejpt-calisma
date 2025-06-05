@@ -24,4 +24,5 @@ active için ffuf
 theharvester kullan
 theharvester ile bulunan bir mail haveipwned.com da araştırılabilir password için
 
+-----------------active reconnaissance---
 ![image](https://github.com/user-attachments/assets/8731a25d-75e3-4944-aa69-43dd9af7491d)
